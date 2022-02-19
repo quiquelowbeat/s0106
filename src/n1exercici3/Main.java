@@ -2,7 +2,7 @@ package n1exercici3;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // Amb errors degut al enunciat.
 		
 		GenericMethods.f("Casa", "Puerta", "Mesa");
 		
